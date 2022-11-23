@@ -1,6 +1,6 @@
 #!/bin/bash
 # 该脚本使用了源地址，一般配合策略路由使用，正常情况请使用另一版本
-debug=1 # 开启debug
+# debug=1 # 开启debug
 
 sourceIp='192.168.0.2' # 指定源地址IP 未指定则不使用 影响 curl ping
 
